@@ -1,0 +1,12 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  background-color: #0f172a;
+  color: #F8FAFF;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header h1{
+    display: flex;
+    padding-top: 15px;
+    justify-content: center;
+}
