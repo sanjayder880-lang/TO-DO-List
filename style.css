@@ -10,3 +10,32 @@ header h1{
     padding-top: 15px;
     justify-content: center;
 }
+.input{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    height: 30px;
+    gap:10px;
+}
+#enter{
+    width: 50px;
+    border: solid 1px;
+}
+ol{
+    display: flex;
+    height: auto;
+    /* width: 200px; */
+    justify-content: center;
+    margin-top: 30px;
+}
+.list-item{
+    display: flex;
+    height: 30px;
+    width : 200px;
+    border-radius: 10%;
+    border: 2px solid;
+    align-items: center;
+    justify-content: center;
+}
+
+
